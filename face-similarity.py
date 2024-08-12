@@ -1,4 +1,7 @@
 #Membuat Fungsi untuk Membandingkan Wajah
+#install terlebih dahulu pip install face_recognition
+#git clone https://github.com/cubiq/ComfyUI_FaceAnalysis.git
+
 
 import face_recognition
 import os
